@@ -1,6 +1,6 @@
 "use client";
 
-import { getPlan, setPlan } from "@/lib/billing";
+import { getPlan, setPlan } from "../../lib/billing";
 
 export default function Billing() {
 
